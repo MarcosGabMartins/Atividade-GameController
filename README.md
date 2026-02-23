@@ -4,6 +4,8 @@ Projeto prático desenvolvido como requisito para a disciplina de Arquitetura de
 
 Esta aplicação é uma Web API desenvolvida em **.NET 9** (C#) que implementa um CRUD completo de jogos utilizando o padrão **Controller**, injeção de dependência e armazenamento em memória.
 
+obs: como não tenho como desenvolver o projeto pelo Visual Studio por algum problema que ele apresentou em uma disciplina passada, optei por desenvolver pelo JatBrains Rider.
+
 ## 🚀 Tecnologias Utilizadas
 * **C#** e **.NET 9**
 * **ASP.NET Core Web API**
@@ -26,6 +28,5 @@ A API expõe os seguintes métodos através da `GameController`:
 3. Inicie o servidor clicando no Play.
 4. Acesse o navegador no endereço: `http://localhost:5153/swagger` para visualizar a interface interativa e testar os endpoints.
 
-obs: como não tenho como desenvolver o projeto pelo Visual Studio por algum problema que ele apresentou em uma disciplina passada, optei por desenvolver pelo JatBrains Rider.
 ---
 Desenvolvido por **Marcos Gabriel de Paula Martins**.
