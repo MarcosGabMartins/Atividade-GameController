@@ -1,0 +1,8 @@
+﻿# Pastas de build do .NET
+bin/
+obj/
+
+# Pastas de configuração do Rider
+.idea/
+*.sln.iml
+*.user
