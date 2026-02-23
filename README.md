@@ -4,7 +4,7 @@ Projeto prático desenvolvido como requisito para a disciplina de Arquitetura de
 
 Esta aplicação é uma Web API desenvolvida em **.NET 9** (C#) que implementa um CRUD completo de jogos utilizando o padrão **Controller**, injeção de dependência e armazenamento em memória.
 
-obs: como não tenho como desenvolver o projeto pelo Visual Studio por algum problema que ele apresentou em uma disciplina passada, optei por desenvolver pelo JatBrains Rider.
+**OBS:** como não tenho como desenvolver o projeto pelo Visual Studio por algum problema que ele apresentou em uma disciplina passada, optei por desenvolver pelo JatBrains Rider.
 
 ## 🚀 Tecnologias Utilizadas
 * **C#** e **.NET 9**
