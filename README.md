@@ -26,5 +26,6 @@ A API expõe os seguintes métodos através da `GameController`:
 3. Inicie o servidor clicando no Play.
 4. Acesse o navegador no endereço: `http://localhost:5153/swagger` para visualizar a interface interativa e testar os endpoints.
 
+obs: como não tenho como desenvolver o projeto pelo Visual Studio por algum problema que ele apresentou em uma disciplina passada, optei por desenvolver pelo JatBrains Rider.
 ---
 Desenvolvido por **Marcos Gabriel de Paula Martins**.
